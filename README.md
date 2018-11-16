@@ -1,1 +1,1 @@
-# wdio-issue3050-example"
+# wdio-issue3050-example
