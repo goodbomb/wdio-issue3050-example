@@ -1,0 +1,27 @@
+{
+    "name": "wdio-issue3050-example",
+    "version": "0.1.0",
+    "description": "wdio-issue3050-example",
+    "main": "index.js",
+    "author": "goodbomb",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/goodbomb/wdio-issue3050-example.git"
+    },
+    "scripts": {
+        "test": "wdio ./wdio.conf.js"
+    },
+    "devDependencies": {
+        "@babel/cli": "7.1.2",
+        "@babel/core": "7.1.2",
+        "@babel/plugin-transform-runtime": "7.1.0",
+        "@babel/preset-env": "7.1.0",
+        "@babel/register": "7.0.0",
+        "@babel/runtime": "7.1.2",
+        "wdio-jasmine-framework": "0.3.6",
+        "wdio-selenium-standalone-service": "0.0.10",
+        "wdio-spec-reporter": "0.1.5",
+        "webdriverio": "4.13.2"
+    }
+}

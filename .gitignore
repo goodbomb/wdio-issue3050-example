@@ -1,0 +1,23 @@
+# Dependencies
+/node_modules
+
+# Generated Files
+/dist
+/dist/*
+.eslintcache
+/coverage/*
+appium.log
+/logs
+/errorShots/
+/test-reports
+/allure-report
+
+# Configuration Files
+.env
+
+# System files
+.DS_Store
+npm-debug.log
+
+# Editor files
+.vscode/
